@@ -1,4 +1,4 @@
-<script>
+
      $(document).ready(function() {
  console.log("tring video");
  
@@ -291,4 +291,4 @@ function load_list_items(){
 }
 
 load_list_items();
-</script>
+
